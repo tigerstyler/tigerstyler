@@ -5,8 +5,7 @@
 - 💻 Me gusta ayudar a mis clientes a aprender a configurar servidores y crear plugins de Minecraft.
 - 🚀 Siempre aprendiendo algo nuevo sobre animación 2D y desarrollo de juegos.
 - 💬 Pregúntame sobre **Python**, **JavaScript**, **PHP**, **desarrollo de videojuegos** o **servidores de Minecraft**.
-- 📫 Contáctame: [tylerdev@example.com](mailto:tylerdev@example.com)
-- ⚡ Curiosidad: ¡Soy un apasionado del diseño de interfaces con Kivy!
+- ⚡ Curiosidad: ¡Soy un apasionado ayudar!
 
 ### 🚀 Tecnologías y Herramientas
 - Lenguajes: ![Python](https://img.shields.io/badge/Python-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
