@@ -8,10 +8,8 @@
 - 💬 Contáctame si deseas aprender más sobre **Python**, **JavaScript**, **PHP**, **desarrollo de videojuegos**, o **administración de servidores Minecraft**.
 - ⚡ Curiosidad: Mi pasión es ayudar a otros a aprovechar la tecnología para lograr sus objetivos.
 
-### 🚀 Tecnologías y Herramientas
-- **Lenguajes**: ![Python](https://img.shields.io/badge/Python-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![PHP](https://img.shields.io/badge/PHP-green)
-- **Frameworks**: ![Kivy](https://img.shields.io/badge/Kivy-green) ![Qt](https://img.shields.io/badge/Qt-007D8C)
-- **Herramientas**: ![Git](https://img.shields.io/badge/Git-orange) ![GitHub](https://img.shields.io/badge/GitHub-black) ![Docker](https://img.shields.io/badge/Docker-blue)
+### 💡 conocimiento
+lenguages Python, JavaScript, PHP
 
 ### 📈 Estadísticas de GitHub
 ![slenderman](https://github-readme-stats.vercel.app/api?username=tigerstyler&show_icons=true&theme=radical)
