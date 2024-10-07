@@ -9,7 +9,7 @@
 - ⚡ Curiosidad: Mi pasión es ayudar a otros a aprovechar la tecnología para lograr sus objetivos.
 
 ### 💡 conocimiento
-lenguages Python, JavaScript, PHP
+lenguages ![Python](https://img.shields.io/badge/Python-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![PHP](https://img.shields.io/badge/PHP-green)
 
 ### 📈 Estadísticas de GitHub
 ![slenderman](https://github-readme-stats.vercel.app/api?username=tigerstyler&show_icons=true&theme=radical)
