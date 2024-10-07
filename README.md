@@ -14,7 +14,7 @@
 - **Herramientas**: ![Git](https://img.shields.io/badge/Git-orange) ![GitHub](https://img.shields.io/badge/GitHub-black) ![Docker](https://img.shields.io/badge/Docker-blue)
 
 ### 📈 Estadísticas de GitHub
-![slenderman](https://github-readme-stats.vercel.app/api?username=slendermantvb&show_icons=true&theme=radical)
+![slenderman](https://github-readme-stats.vercel.app/api?username=tigerstyler&show_icons=true&theme=radical)
 
 ### 🚀 Proyectos Destacados
 - ✨ [Gemat.ai](https://github.com/tuRepositorio/gemat-ai): Chatbot avanzado que permite registro de usuarios y múltiples conversaciones, desarrollado utilizando PHP y JavaScript para una experiencia conversacional mejorada.
